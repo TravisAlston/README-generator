@@ -42,11 +42,6 @@ inquirer.prompt([
         },
         {
             type: 'input',
-            name: 'contents',
-            message: 'create a table of contents for your project (optional)',
-        },
-        {
-            type: 'input',
             name: 'installation',
             message: 'What are the steps to install your project?',
             validate: nameInput => {
@@ -88,9 +83,7 @@ inquirer.prompt([
             type: 'list',
             name: 'license',
             message: 'Which license would you like?',
-            choices: [
-
-            ]
+            choices: [ 'MIT', 'Mozilla', 'Open Data Commons', 'IBM']
         },
         {
             type: 'input',
