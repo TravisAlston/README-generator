@@ -1,8 +1,8 @@
-# a
+# ReadMe Generator
 
   # Description
 
-  a
+  This is a ReadMe Generator that will help you create a professional ReadMe for any project GitHub repository!
 
   # Table of Contents
 
@@ -16,29 +16,29 @@
   - [Email Info](#Email)
 
   # Instalation
-  a
+  Copy the code and place it into your project files.
 
   # Usage
 
-  a
+  Run the code by opening your integrated command line terminal and typing "node index.js"
 
   # Contributors
-  a
+  none
 
   # Licence
 
-  
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   # Test
 
-  a
+  None
 
   # GitHub
 
-  a
+  TravisAlston
 
   # Email
 
-  a
+  alstontravis6@gmail.com
   
 

@@ -80,9 +80,9 @@ inquirer.prompt([
             }
         },
         {
-            type: 'checkbox',
+            type: 'list',
             name: 'license',
-            message: 'Which licenses would you like?',
+            message: 'Which license would you like?',
             choices: [ 'MIT', 'Mozilla', 'Open Data Commons', 'IBM']
         },
         {

@@ -1,5 +1,6 @@
 
 function renderLicenseBadge(license) {
+  console.log('you made it this far', license);
   if (license == 'MIT') {
     return `\r[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
   } else if (license == 'Mozilla') {
